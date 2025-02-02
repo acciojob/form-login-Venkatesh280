@@ -1,3 +1,4 @@
+function getFormvalue() {
 	function getFormvalue() {
     // Get the values of the first and last name input fields
     var firstName = document.getElementById("firstName").value;
@@ -12,4 +13,4 @@
 
     //Write your code here
 
-
+}
